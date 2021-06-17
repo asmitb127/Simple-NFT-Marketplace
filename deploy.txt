@@ -1,0 +1,63 @@
+
+Compiling your contracts...
+===========================
+> Everything is up to date, there is nothing to compile.
+
+
+
+Starting migrations...
+======================
+> Network name:    'matic'
+> Network id:      80001
+> Block gas limit: 20000000 (0x1312d00)
+
+
+2_deploy_contract.js
+====================
+
+   Deploying 'NFTCrowdsale'
+   ------------------------
+   > transaction hash:    0x68c2f178a05209952b08ea23da3fd0f5d92fdd4cd6e5c9f85e9d8d20c8e3000f
+   > Blocks: 3            Seconds: 4
+   > contract address:    0x16e6830153372bA690a6B640a3B2cB7C3b51717d
+   > block number:        8700777
+   > block timestamp:     1609301178
+   > account:             0x894318467800cddE7e536dD9b64fD7BaE06fAC87
+   > balance:             1.898227483
+   > gas used:            1772517 (0x1b0be5)
+   > gas price:           1 gwei
+   > value sent:          0 ETH
+   > total cost:          0.001772517 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 2 (block: 8700781)
+
+   Deploying 'HRC721'
+   ------------------
+   > transaction hash:    0x86ff1cb4453ca56117999645ce510c7b1d027db09cc04a8cf6824a939b7d09fc
+   > Blocks: 2            Seconds: 4
+   > contract address:    0x63B9F78DeaE9E2a1ee60E52187cD884f8220636D
+   > block number:        8700785
+   > block timestamp:     1609301194
+   > account:             0x894318467800cddE7e536dD9b64fD7BaE06fAC87
+   > balance:             1.895403694
+   > gas used:            2823789 (0x2b166d)
+   > gas price:           1 gwei
+   > value sent:          0 ETH
+   > total cost:          0.002823789 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 2 (block: 8700788)
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:         0.004596306 ETH
+
+
+Summary
+=======
+> Total deployments:   2
+> Final cost:          0.004596306 ETH
+
+

@@ -1,0 +1,21 @@
+{
+  "name": "NFT Marketplace",
+  "version": "1.0.0",
+  "description": "Simple NFT Store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/cli": "^2.8.2"
+  },
+  "dependencies": {
+    "@harmony-js/core": "^0.1.55",
+    "@openzeppelin/contracts": "^2.4.0",
+    "dotenv": "^8.2.0",
+    "truffle-flattener": "^1.5.0",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}

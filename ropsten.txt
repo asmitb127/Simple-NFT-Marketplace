@@ -1,0 +1,104 @@
+
+Compiling your contracts...
+===========================
+> Everything is up to date, there is nothing to compile.
+
+
+
+Migrations dry-run (simulation)
+===============================
+> Network name:    'ropsten-fork'
+> Network id:      3
+> Block gas limit: 8000000 (0x7a1200)
+
+
+2_deploy_contract.js
+====================
+
+   Replacing 'NFTCrowdsale'
+   ------------------------
+   > block number:        9360787
+   > block timestamp:     1609308490
+   > account:             0x894318467800cddE7e536dD9b64fD7BaE06fAC87
+   > balance:             0.996514966
+   > gas used:            1742517 (0x1a96b5)
+   > gas price:           2 gwei
+   > value sent:          0 ETH
+   > total cost:          0.003485034 ETH
+
+
+   Replacing 'HRC721'
+   ------------------
+   > block number:        9360788
+   > block timestamp:     1609308606
+   > account:             0x894318467800cddE7e536dD9b64fD7BaE06fAC87
+   > balance:             0.991077388
+   > gas used:            2718789 (0x297c45)
+   > gas price:           2 gwei
+   > value sent:          0 ETH
+   > total cost:          0.005437578 ETH
+
+   -------------------------------------
+   > Total cost:         0.008922612 ETH
+
+
+Summary
+=======
+> Total deployments:   2
+> Final cost:          0.008922612 ETH
+
+
+
+
+
+Starting migrations...
+======================
+> Network name:    'ropsten'
+> Network id:      3
+> Block gas limit: 8000000 (0x7a1200)
+
+
+2_deploy_contract.js
+====================
+
+   Replacing 'NFTCrowdsale'
+   ------------------------
+   > transaction hash:    0x7c096fc87ced38d0680766f6c7b088a3824d4083dba5ad88c9596392ac2e204b
+   > Blocks: 1            Seconds: 10
+   > contract address:    0x16e6830153372bA690a6B640a3B2cB7C3b51717d
+   > block number:        9360807
+   > block timestamp:     1609308643
+   > account:             0x894318467800cddE7e536dD9b64fD7BaE06fAC87
+   > balance:             1.86454966
+   > gas used:            1772517 (0x1b0be5)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.03545034 ETH
+
+
+   Replacing 'HRC721'
+   ------------------
+   > transaction hash:    0xb270ebd3bd190586021c406f0ab23448c660689dea7dcd87fdca4a53a3c51495
+   > Blocks: 1            Seconds: 14
+   > contract address:    0x63B9F78DeaE9E2a1ee60E52187cD884f8220636D
+   > block number:        9360809
+   > block timestamp:     1609308664
+   > account:             0x894318467800cddE7e536dD9b64fD7BaE06fAC87
+   > balance:             1.80807388
+   > gas used:            2823789 (0x2b166d)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.05647578 ETH
+
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.09192612 ETH
+
+
+Summary
+=======
+> Total deployments:   2
+> Final cost:          0.09192612 ETH
+
+
+

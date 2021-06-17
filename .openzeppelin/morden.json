@@ -1,0 +1,31 @@
+{
+  "contracts": {},
+  "solidityLibs": {},
+  "proxies": {
+    "nft-store-harmony/HRC721": [
+      {
+        "address": "0xCa64557DB1993E4f3732d4Cb91bd2C1297Fe38a1",
+        "kind": "NonProxy",
+        "bytecodeHash": "23bf5985893099ba0ef034064729631da34065a5819da1524c3681252b83f02e"
+      },
+      {
+        "address": "0x87CB7352fc2EB50901FdB7a6C7a003d74f43ab69",
+        "kind": "NonProxy",
+        "bytecodeHash": "c700d37507cb076ede3eae51ce315fbcd7669095c6de9994988f98f97574e1cf"
+      }
+    ],
+    "nft-store-harmony/NFTCrowdsale": [
+      {
+        "address": "0x3A94429B9c81F9dfefC3eB85fBbF97389b0511C6",
+        "kind": "NonProxy",
+        "bytecodeHash": "7a75db31542d2e57602e6e0ea78e37131a92aacd4bf3f8e7a489eb0d5190828d"
+      },
+      {
+        "address": "0xf6651010edD640FeBcd0768AF278C26D35C0C663",
+        "kind": "NonProxy",
+        "bytecodeHash": "7a75db31542d2e57602e6e0ea78e37131a92aacd4bf3f8e7a489eb0d5190828d"
+      }
+    ]
+  },
+  "manifestVersion": "2.2"
+}
